@@ -1,4 +1,4 @@
-# Binary-Classification-Project
+# Binary-Classification- Machine Learning-Project
 
 Problem Definition (Binary Classification) - The problem is to predict metal (M) or rock (R) objects from sonar return Dataset. Each pattern is a set of 60 numbers in the range 0.0 to 1.0
 Each number represents the energy within a particular frequency band, integrated over a certain period of time.
